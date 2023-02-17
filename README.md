@@ -14,4 +14,5 @@ We train the model on google colab,so we need to prepare somethings
 
 ## Result : get the yolo model named best.pt in the training_output folder 
 
+<img src="https://github.com/anhalu/vehicle-object-detection-using-YOLOv8/blob/main/demo.gif">
 
