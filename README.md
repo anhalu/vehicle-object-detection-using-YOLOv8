@@ -10,7 +10,7 @@ We train the model on google colab,so we need to prepare somethings
 
 #### Step 2 : Create a google colab file to train model, and a file .yaml 
 
-#### Step 3 : Follow the instructions of the google colab file
+#### Step 3 : Follow the instructions of the google colab file (file .ipynb) 
 
 ## Result : get the yolo model named best.pt in the training_output folder 
 
